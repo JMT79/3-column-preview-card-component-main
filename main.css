@@ -1,0 +1,136 @@
+/*-------------Generales-------- */
+*{
+ box-sizing:border-box;
+
+}
+
+html,body{
+
+ height: 100%;
+ margin: 0;
+ padding: 0;
+
+}
+
+body{
+font-family: 'Lexend Deca',sans-serif;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: lightgray;
+}
+
+/* Principal */
+.principal{
+ display: flex;
+ max-width: 768px;
+ min-width: 320px;
+ height:64%;
+
+}
+
+.columna{
+ display:flex;
+ flex-direction:column;
+ align-items:center;
+ color: white;
+ padding:20px 30px;
+ width: 25%;
+ overflow: hidden;
+ transition: width .5s ease-in-out;
+ cursor: pointer;
+
+}
+
+.columna.activa{
+ width: 50%;
+padding: 20px 40px;
+overflow: hidden;
+}
+
+ .titulo{
+ font-family:'Big Shoulders Display', cursive;
+ text-transform: uppercase;
+ }
+
+
+.texto{
+ font-size: 12px;
+ }
+
+ .enlace{
+ position:absolute;
+ bottom:9rem;
+ width:60px;
+ text-decoration: none;
+ background-color: white;
+ border-radius:8px;
+ padding: 4px 4px;
+ font-size: 14px;
+ text-align:center;
+
+
+ }
+
+/*-------------Columnas------------*/
+
+.sedans{
+background-color:hsl(31, 77%, 52%);
+border-radius: .5rem 0 0 .5rem ;
+}
+
+.suvs{
+background-color:hsl(184, 100%, 22%) ;
+
+}
+.luxury{
+background-color:hsl(179, 100%, 13%) ;
+border-radius: 0 .5rem .5rem 0;
+}
+
+.sedans .enlace{
+    color:hsl(31, 77%, 52%);
+}
+
+.suvs .enlace{
+    color:hsl(184, 100%, 22%) ;
+}
+.luxury .enlace{
+    color:hsl(179, 100%, 13%) ;
+}
+  
+p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+/*----------Diseño Responsive---------*/
+
+@media screen and (min-width:768px){
+
+.principal{
+
+height:96%;
+
+}
+.columna{
+
+ padding:10px 20px;
+
+}
+
+.columna.activa{
+
+padding: 10px 30px;
+
+}
+.enlace{
+
+ bottom:6%;
+
+ }
+
+}
+
