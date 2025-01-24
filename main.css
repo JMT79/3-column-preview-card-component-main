@@ -100,8 +100,8 @@ border-radius: 0 .5rem .5rem 0;
 }
   
 p{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top:1%;
+    margin-bottom:1%;
 }
 
 
@@ -113,6 +113,11 @@ p{
 .principal{
  height:80%;
 }
+p{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
+
 .enlace{
  bottom:9rem;
  }
