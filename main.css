@@ -25,7 +25,7 @@ font-family: 'Lexend Deca',sans-serif;
  display: flex;
  max-width: 768px;
  min-width: 320px;
- height:64%;
+ height:90%;
 
 }
 
@@ -107,20 +107,18 @@ p{
 
 
 /*----------Diseño Responsive---------*/
+
 @media screen and (max-width:650px){
-.principal{
- 
+
+.principal{
  height:80%;
-
-
-
 }
 
 @media screen and (min-width:768px){
 
 .principal{
 
-height:96%;
+height:80%;
 
 }
 .columna{
