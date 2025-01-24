@@ -113,6 +113,9 @@ p{
 .principal{
  height:80%;
 }
+.enlace{
+ bottom:9rem;
+ }
 
 @media screen and (min-width:768px){
 
