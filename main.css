@@ -130,7 +130,7 @@ p{
 @media only screen and (min-width: 651px) and (max-width: 1024px){
  .principal{
 
- height:90%;
+ height:60%;
 }
 p{
     margin-top: 1rem;
@@ -139,7 +139,7 @@ p{
 
 .enlace{
 
- bottom:3rem;
+ bottom:10rem;
 
  }
 }
