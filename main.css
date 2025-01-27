@@ -107,6 +107,25 @@ p{
 
 
 /*----------Diseño Responsive---------*/
+@media screen and (max-width:450px){
+
+.principal{
+
+ height:70%;
+}
+p{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
+
+.enlace{
+
+ bottom:8rem;
+
+ }
+ 
+
+}
 
 @media screen and (max-width:768px){
 
