@@ -25,7 +25,7 @@ font-family: 'Lexend Deca',sans-serif;
  display: flex;
  max-width: 768px;
  min-width: 320px;
- height:90%;
+ height:50%;
 
 }
 
@@ -60,7 +60,7 @@ overflow: hidden;
 
  .enlace{
  position:absolute;
- bottom:2rem;
+ bottom:16rem;
  width:60px;
  text-decoration: none;
  background-color: white;
