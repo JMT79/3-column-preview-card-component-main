@@ -113,6 +113,12 @@ p{
 
  height:70%;
 }
+ .titulo{
+ font-family:'Big Shoulders Display', cursive;
+ text-transform: uppercase;
+  font-size:2rem;
+ }
+
 p{
     margin-top: 1rem;
     margin-bottom:1rem;
