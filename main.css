@@ -110,7 +110,8 @@ p{
 
 @media screen and (max-width:650px){
 
-.principal{
+.principal{
+
  height:80%;
 }
 p{
@@ -118,15 +119,18 @@ p{
     margin-bottom:1rem;
 }
 
-.enlace{
- bottom:9rem;
+.enlace{
+
+ bottom:9rem;
+
+
  }
 
 @media screen and (min-width:768px){
 
 .principal{
 
-height:80%;
+height:50%;
 
 }
 .columna{
@@ -142,7 +146,7 @@ padding: 10px 30px;
 }
 .enlace{
 
- bottom:6%;
+ bottom:16rem;
 
  }
 
