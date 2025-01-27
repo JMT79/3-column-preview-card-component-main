@@ -121,32 +121,7 @@ p{
 
 .enlace{
 
- bottom:9rem;
-
-
- }
-
-@media screen and (min-width:1024px){
-
-.principal{
-
-height:50%;
-
-}
-.columna{
-
- padding:10px 20px;
-
-}
-
-.columna.activa{
-
-padding: 10px 30px;
-
-}
-.enlace{
-
- bottom:2rem;
+ bottom:8rem;
 
  }
 
