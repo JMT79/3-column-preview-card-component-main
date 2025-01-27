@@ -124,6 +124,23 @@ p{
  bottom:8rem;
 
  }
+ 
 
+}
+@media only screen and (min-width: 651px) and (max-width: 1024px){
+ .principal{
+
+ height:80%;
+}
+p{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+}
+
+.enlace{
+
+ bottom:2rem;
+
+ }
 }
 
