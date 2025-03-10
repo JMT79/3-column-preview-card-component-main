@@ -160,7 +160,9 @@ p{
     margin-top: 1rem;
     margin-bottom:1rem;
 }
-
+. columna {
+padding-top:3rem;
+}
 .enlace{
 
 bottom:43%;
