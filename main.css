@@ -153,7 +153,7 @@ p{
 }
 @media  screen and (min-width: 769px){
  .principal{
-
+padding-top:2rem;
  max-height:30%;
 }
 p{
@@ -163,7 +163,7 @@ p{
 
 .enlace{
 
-top:40%;
+bottom:60%;
 
  }
 }
