@@ -154,7 +154,7 @@ p{
 @media only screen and (min-width: 769px) and (max-width: 1200px){
  .principal{
 
- height:90%;
+ max-height:60%;
 }
 p{
     margin-top: 1rem;
