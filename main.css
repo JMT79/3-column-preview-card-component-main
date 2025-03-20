@@ -209,8 +209,7 @@ padding:0.5rem;
 
 @media  screen and (min-width: 1080px){
  .principal{
-padding-top:2rem;
-flex-direction:row;
+flex-direction:rows;
 
 }
 
