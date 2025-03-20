@@ -44,7 +44,7 @@ overflow:hidden;
 .columna.activa{
  width: 90%;
 height:40%;
-padding: 1rem 1rem;
+padding: 1rem;
 overflow:hidden
 }
 
@@ -102,10 +102,17 @@ border-radius: 0 0 0.5rem 0.5rem;
 
 .principal{
 width:90%;
- height:54%;
+ height:100%;
 }
 .columna{
 padding:1rem;
+width:25%;
+
+}
+.columna.activa{
+padding:1rem;
+width:40%;
+
 }
  .titulo{
  font-family:'Big Shoulders Display', cursive;
