@@ -211,6 +211,7 @@ padding:0.5rem;
  .principal{
 padding-top:2rem;
  max-heigth:50%;
+flex-direction:row;
 
 }
 
