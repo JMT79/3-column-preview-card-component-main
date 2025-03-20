@@ -39,13 +39,13 @@ flex-direction:column;
  width: 90%;
  transition: width .5s ease-in-out;
  cursor: pointer;
-heigth:20%;
+height:20%;
 overflow:hidden;
 }
 
 .columna.activa{
  width: 90%;
-heigth:40%;
+height:40%;
 padding: 1rem 1rem;
 overflow:hidden
 }
