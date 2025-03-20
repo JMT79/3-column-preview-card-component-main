@@ -35,7 +35,7 @@ font-family: 'Lexend Deca',sans-serif;
  align-items:center;
  color: white;
  padding:1rem 1.5rem;
- width: 25%;
+ width: 30%;
  overflow: hidden;
  transition: width .5s ease-in-out;
  cursor: pointer;
@@ -43,7 +43,7 @@ font-family: 'Lexend Deca',sans-serif;
 }
 
 .columna.activa{
- width: 75%;
+ width: 40%;
 padding: 10px 20px;
 overflow: hidden;
 }
