@@ -40,7 +40,7 @@ flex-direction:column;
  width: 90%;
  transition: width .5s ease-in-out;
  cursor: pointer;
-height:20%;
+heigth:20%;
 overflow:hidden;
 }
 
