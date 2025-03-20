@@ -113,6 +113,9 @@ p{
 width:90%;
  height:70%;
 }
+.columna{
+padding:1rem;
+}
  .titulo{
  font-family:'Big Shoulders Display', cursive;
  text-transform: uppercase;
@@ -120,7 +123,7 @@ width:90%;
  }
 
 p{
-padding:4rem 1rem;
+padding:1.4rem;
 
 }
  
