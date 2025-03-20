@@ -1,8 +1,4 @@
-/*-------------Generales-------- */
-*{
- box-sizing:border-box;
-
-}
+/*-------------Generales-----
 
 html,body{
  margin: 0;
@@ -61,8 +57,7 @@ overflow:hidden
  font-size: 0.7rem;
  }
 
- .enlace{
- 
+.enlace{
  margin-top:1rem;
  width:3rem;
  text-decoration: none;
@@ -71,8 +66,6 @@ overflow:hidden
  padding: 4px 4px;
  font-size: 1rem;
  text-align:center;
-
-
  }
 
 /*-------------Columnas------------*/
@@ -103,9 +96,6 @@ border-radius: 0 0 0.5rem 0.5rem;
 }
  
 
-
-
-/*----------Diseño Responsive---------*/
 @media screen and (min-width:768px){
 
 .principal{
