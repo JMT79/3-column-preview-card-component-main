@@ -40,7 +40,6 @@ flex-direction:column;
  color: white;
  padding:1rem;
  width: 90%;
- overflow: hidden;
  transition: width .5s ease-in-out;
  cursor: pointer;
 
@@ -49,7 +48,6 @@ flex-direction:column;
 .columna.activa{
  width: 90%;
 padding: 1rem 1rem;
-overflow: hidden;
 }
 
  .titulo{
