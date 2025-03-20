@@ -20,7 +20,9 @@ font-family: 'Lexend Deca',sans-serif;
  background-color: lightgray;
 }
 
-/* Principal */
+
+@media screen and (max-width:450px){
+
 .principal{
  display: flex;
  max-width: 768px;
