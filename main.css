@@ -107,7 +107,7 @@ p{
 
 
 /*----------Diseño Responsive---------*/
-@media screen and (max-width:650px){
+@media screen and (max-width:768px){
 
 .principal{
 width:90%;
@@ -129,24 +129,6 @@ padding:1.4rem;
  
 
 }
-
-@media only screen and (min-width: 451px) and (max-width: 768px){
-
-.principal{
-
- height:70%;
-}
-p{
-    margin-top: 1rem;
-    margin-bottom:1rem;
-}
-
-.enlace{
- background-color: rgba(255, 255, 255, 0.5);
- bottom:1rem;
-
- }
- 
 
 }
 @media  screen and (min-width: 769px){
