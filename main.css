@@ -11,16 +11,16 @@ html,body{
 
 body{
 font-family: 'Lexend Deca',sans-serif;
- background-color: lightgray;
+background-color: lightgray;
 }
 
 .principal{
  display: flex;
-flex-direction:column;
+ flex-direction:column;
  justify-content: center;
  align-items:center;
  width:100%;
-padding:2rem 0;
+ padding:2rem 0;
  
 
 }
