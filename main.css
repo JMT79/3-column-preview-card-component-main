@@ -36,6 +36,7 @@ height:100%;
  cursor: pointer;
 height:20%;
 overflow:hidden;
+margin:2rem 0;
 }
 
 .columna.activa{
