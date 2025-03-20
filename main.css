@@ -43,12 +43,14 @@ flex-direction:column;
  transition: width .5s ease-in-out;
  cursor: pointer;
 heigth:20%;
+overflow:hidden;
 }
 
 .columna.activa{
  width: 90%;
 heigth:40%;
 padding: 1rem 1rem;
+overflow:hidden
 }
 
  .titulo{
