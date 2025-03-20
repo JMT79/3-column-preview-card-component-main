@@ -27,7 +27,7 @@ font-family: 'Lexend Deca',sans-serif;
  display: flex;
 flex-direction:column;
  justify-content: center;
- width:100%;
+ width:90%;
  height:60%;
 
 }
@@ -46,7 +46,7 @@ flex-direction:column;
 }
 
 .columna.activa{
- width: 100%;
+ width: 90%;
 padding: 5rem 1rem;
 overflow: hidden;
 }
