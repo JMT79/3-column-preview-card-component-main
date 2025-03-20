@@ -28,7 +28,7 @@ height:100%;
 .columna{
  display:flex;
  flex-direction:column;
- align-items:center;
+ align-items:start;
  color: white;
  padding:1rem;
  width: 90%;
@@ -36,7 +36,6 @@ height:100%;
  cursor: pointer;
 height:20%;
 overflow:hidden;
-margin:2rem 0;
 }
 
 .columna.activa{
