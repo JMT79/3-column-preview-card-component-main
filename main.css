@@ -99,6 +99,7 @@ border-radius: 0 0 0.5rem 0.5rem;
     color:hsl(179, 100%, 13%) ;
 }
  
+}
 
 @media screen and (min-width:768px){
 
@@ -120,10 +121,8 @@ padding:0.5rem;
 
 }
  
-
-
-
 }
+
 @media  screen and (min-width: 1082px){
  .principal{
 padding-top:2rem;
