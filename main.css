@@ -30,7 +30,7 @@ height:100%;
  flex-direction:column;
  align-items:start;
  color: white;
- padding:1rem;
+ padding:1rem 2rem;
  width: 90%;
  transition: width .5s ease-in-out;
  cursor: pointer;
@@ -41,7 +41,7 @@ overflow:hidden;
 .columna.activa{
  width: 90%;
 height:40%;
-padding: 1rem;
+padding: 1rem 2rem;
 overflow:hidden;
 }
 
