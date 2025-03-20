@@ -42,12 +42,12 @@ flex-direction:column;
  width: 90%;
  transition: width .5s ease-in-out;
  cursor: pointer;
-height:22%;
+heigth:22%;
 }
 
 .columna.activa{
  width: 90%;
-height:38%;
+heigth:38%;
 padding: 1rem 1rem;
 }
 
