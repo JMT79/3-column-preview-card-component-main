@@ -25,9 +25,8 @@ font-family: 'Lexend Deca',sans-serif;
 
 .principal{
  display: flex;
- max-width: 768px;
- min-width: 320px;
- height:80%;
+ width:80%
+ height:70%;
 
 }
 
