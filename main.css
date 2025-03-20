@@ -107,7 +107,7 @@ p{
 
 
 /*----------Diseño Responsive---------*/
-@media screen and (max-width:375px){
+@media screen and (max-width:1081px){
 
 .principal{
 width:90%;
