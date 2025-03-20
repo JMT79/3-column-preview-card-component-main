@@ -130,8 +130,9 @@ padding:0.5rem;
 @media  screen and (min-width: 1082px){
  .principal{
 padding-top:2rem;
- max-height:25%;
+ max-heigth:25%;
 }
+
 p{
     margin-top: 1rem;
     margin-bottom:1rem;
